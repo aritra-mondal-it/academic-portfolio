@@ -1,2 +1,23 @@
-# academic-portfolio
-Personal research portfolio website highlighting my work in Computer Vision, Natural Language Processing, and foundation models, along with publications and academic experience.
+# 🌐 Academic Website Template
+
+This repository contains a simple and clean academic portfolio website built using HTML and CSS.  
+It can be easily customized to create a personal website for students, researchers, or professionals.
+
+---
+
+## ✨ Features
+
+- Clean and minimal academic design
+- Sections for:
+  - About
+  - Research / Publications
+  - Experience
+  - Education
+  - Contact
+- Clickable links (email, papers, profiles)
+- Responsive layout (works on desktop and mobile)
+- Easy to edit (no frameworks required)
+
+---
+
+## 📁 Project Structure
